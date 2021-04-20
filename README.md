@@ -1,1 +1,1 @@
-# kanban-board
+Kanban Board for Adlister Project
